@@ -1,6 +1,6 @@
-## Anderson<img align="center" height="20" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="💎"/>TypeScript Lover
+## Anderson<img align="center" height="20" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="💎"/><i>TypeScript Lover</i>
 
-<div>
+<div style="display: inline_block">
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Andersonk01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonk01&layout=compact&langs_count=16&theme=react"/>
@@ -33,4 +33,4 @@
 ![Snake animation](https://github.com/Andersonk01/Andersonk01/blob/output/github-contribution-grid-snake.svg)
 
 
-### 🔥Welcome to my space
+### <i>One step at a time...🔥</i>
