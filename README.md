@@ -1,4 +1,4 @@
-### <p align="right"><a href="https://github.com/Andersonk01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a></p> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18567c&size=20&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Anderson+Kauer;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+### <p align="right"><a href="https://github.com/Andersonk01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a></p> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18567c&size=25&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Anderson+Kauer;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <!--   
 <div align="center">
