@@ -1,9 +1,11 @@
 ### <p align="right"><a href="https://github.com/Andersonk01?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a></p> [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=18567c&size=20&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Anderson+Kauer;I'm+22+years+old;I'm+from+Brazil;I+Graduated+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
+<!--   
 <div align="center">
-<!--   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andersonk01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andersonk01&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andersonk01&layout=compact&langs_count=16&theme=react"/>
 </div>
+  -->
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
