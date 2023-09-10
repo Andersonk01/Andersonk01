@@ -12,6 +12,7 @@
 ![styled](https://img.shields.io/badge/-styled_Components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![css](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![html](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117&textColor=0D1117)&nbsp;
+![shadcn](https://img.shields.io/badge/-shadcn_ui-0D1117?style=for-the-badge&logo=shadcnui&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
 <h3 align="center">Social media</h3>
