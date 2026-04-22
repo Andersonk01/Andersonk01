@@ -43,11 +43,7 @@ const anderson = {
 
 </td>
     <td width="45%" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andersonk01/Andersonk01/output/github-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andersonk01/Andersonk01/output/github-snake.svg" />
-        <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Andersonk01/Andersonk01/output/github-snake-dark.svg" width="100%" />
-      </picture>
+      <img src="https://github-readme-3d-contrib.vercel.app/?username=Andersonk01&theme=github-dark-blue&y_axis=true&daysOfWeek=false&monthsOfYear=false&settings=1" alt="3D contribution calendar" width="100%"/>
     </td>
   </tr>
 </table>
