@@ -43,7 +43,7 @@ const anderson = {
 
 </td>
     <td width="45%" align="center">
-      <img src="./coging.gif" alt="coding gif" width="100%"/>
+      <img src="coding.gif" alt="coding gif" width="320"/>
     </td>
   </tr>
 </table>
