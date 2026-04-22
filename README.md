@@ -43,7 +43,7 @@ const anderson = {
 
 </td>
     <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/devSouzax/devSouzax/output/github-snake-dark.svg" alt="coding gif" width="100%"/>
+      <img src="./coging.gif" alt="coding gif" width="100%"/>
     </td>
   </tr>
 </table>
