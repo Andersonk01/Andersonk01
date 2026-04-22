@@ -43,7 +43,9 @@ const anderson = {
 
 </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-3d-contrib.vercel.app/?username=Andersonk01&theme=github-dark-blue&y_axis=true&daysOfWeek=false&monthsOfYear=false&settings=1" alt="3D contribution calendar" width="100%"/>
+      <img src="coding.gif" alt="coding animation" width="320"/>
+      <br/>
+      <img src="https://ghchart.rshah.org/6ee7f9/Andersonk01" alt="contributions grid" width="100%"/>
     </td>
   </tr>
 </table>
