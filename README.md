@@ -78,15 +78,6 @@ const anderson = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andersonk01&bg_color=0D1117&color=6ee7f9&line=6ee7f9&point=ffffff&area=true&hide_border=true" />
 </p>
 
-<!-- ====== TROFÉUS ====== -->
-<h2 align="center">🏆 Troféus</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Andersonk01&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
-<br/>
-
 <!-- ====== REDES SOCIAIS ====== -->
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
