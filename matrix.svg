@@ -1,0 +1,421 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 380" width="340" height="380">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#6ee7f9" stop-opacity="0"/>
+      <stop offset="60%"  stop-color="#6ee7f9" stop-opacity="0.45"/>
+      <stop offset="92%"  stop-color="#a5f3fc" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="340" height="380" rx="10" ry="10"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="340" height="380" fill="#0D1117"/>
+    <text x="22" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="22" dy="0">8</tspan>
+      <tspan x="22" dy="18">ヘ</tspan>
+      <tspan x="22" dy="18">#</tspan>
+      <tspan x="22" dy="18">ナ</tspan>
+      <tspan x="22" dy="18">ミ</tspan>
+      <tspan x="22" dy="18">ミ</tspan>
+      <tspan x="22" dy="18">0</tspan>
+      <tspan x="22" dy="18">ク</tspan>
+      <tspan x="22" dy="18">ヌ</tspan>
+      <tspan x="22" dy="18">カ</tspan>
+      <tspan x="22" dy="18">オ</tspan>
+      <tspan x="22" dy="18">ノ</tspan>
+      <tspan x="22" dy="18">&gt;</tspan>
+      <tspan x="22" dy="18">ソ</tspan>
+      <tspan x="22" dy="18">ナ</tspan>
+      <tspan x="22" dy="18">ニ</tspan>
+      <tspan x="22" dy="18">ネ</tspan>
+      <tspan x="22" dy="18">ヲ</tspan>
+      <tspan x="22" dy="18">2</tspan>
+      <tspan x="22" dy="18">3</tspan>
+      <tspan x="22" dy="18">ソ</tspan>
+      <tspan x="22" dy="18">6</tspan>
+      <tspan x="22" dy="18">ル</tspan>
+      <tspan x="22" dy="18">キ</tspan>
+      <tspan x="22" dy="18">ヒ</tspan>
+      <tspan x="22" dy="18">6</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="5.23s" begin="-0.14s" repeatCount="indefinite"/>
+    </text>
+    <text x="44" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="44" dy="0">ナ</tspan>
+      <tspan x="44" dy="18">ミ</tspan>
+      <tspan x="44" dy="18">ン</tspan>
+      <tspan x="44" dy="18">9</tspan>
+      <tspan x="44" dy="18">{</tspan>
+      <tspan x="44" dy="18">$</tspan>
+      <tspan x="44" dy="18">ヒ</tspan>
+      <tspan x="44" dy="18">エ</tspan>
+      <tspan x="44" dy="18">{</tspan>
+      <tspan x="44" dy="18">4</tspan>
+      <tspan x="44" dy="18">ヨ</tspan>
+      <tspan x="44" dy="18">#</tspan>
+      <tspan x="44" dy="18">ル</tspan>
+      <tspan x="44" dy="18">ユ</tspan>
+      <tspan x="44" dy="18">2</tspan>
+      <tspan x="44" dy="18">キ</tspan>
+      <tspan x="44" dy="18">ム</tspan>
+      <tspan x="44" dy="18">{</tspan>
+      <tspan x="44" dy="18">1</tspan>
+      <tspan x="44" dy="18">ユ</tspan>
+      <tspan x="44" dy="18">イ</tspan>
+      <tspan x="44" dy="18">ヘ</tspan>
+      <tspan x="44" dy="18">タ</tspan>
+      <tspan x="44" dy="18">0</tspan>
+      <tspan x="44" dy="18">マ</tspan>
+      <tspan x="44" dy="18">カ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="7.3s" begin="-3.38s" repeatCount="indefinite"/>
+    </text>
+    <text x="66" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="66" dy="0">ル</tspan>
+      <tspan x="66" dy="18">マ</tspan>
+      <tspan x="66" dy="18">#</tspan>
+      <tspan x="66" dy="18">ハ</tspan>
+      <tspan x="66" dy="18">ロ</tspan>
+      <tspan x="66" dy="18">ツ</tspan>
+      <tspan x="66" dy="18">ル</tspan>
+      <tspan x="66" dy="18">ヲ</tspan>
+      <tspan x="66" dy="18">セ</tspan>
+      <tspan x="66" dy="18">4</tspan>
+      <tspan x="66" dy="18">ホ</tspan>
+      <tspan x="66" dy="18">$</tspan>
+      <tspan x="66" dy="18">ル</tspan>
+      <tspan x="66" dy="18">ク</tspan>
+      <tspan x="66" dy="18">フ</tspan>
+      <tspan x="66" dy="18">ト</tspan>
+      <tspan x="66" dy="18">6</tspan>
+      <tspan x="66" dy="18">8</tspan>
+      <tspan x="66" dy="18">キ</tspan>
+      <tspan x="66" dy="18">マ</tspan>
+      <tspan x="66" dy="18">3</tspan>
+      <tspan x="66" dy="18">ネ</tspan>
+      <tspan x="66" dy="18">ヒ</tspan>
+      <tspan x="66" dy="18">ム</tspan>
+      <tspan x="66" dy="18">4</tspan>
+      <tspan x="66" dy="18">4</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="6.52s" begin="-0.15s" repeatCount="indefinite"/>
+    </text>
+    <text x="88" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="88" dy="0">カ</tspan>
+      <tspan x="88" dy="18">ヲ</tspan>
+      <tspan x="88" dy="18">ヌ</tspan>
+      <tspan x="88" dy="18">ム</tspan>
+      <tspan x="88" dy="18">ス</tspan>
+      <tspan x="88" dy="18">ノ</tspan>
+      <tspan x="88" dy="18">タ</tspan>
+      <tspan x="88" dy="18">キ</tspan>
+      <tspan x="88" dy="18">イ</tspan>
+      <tspan x="88" dy="18">ウ</tspan>
+      <tspan x="88" dy="18">4</tspan>
+      <tspan x="88" dy="18">ス</tspan>
+      <tspan x="88" dy="18">/</tspan>
+      <tspan x="88" dy="18">イ</tspan>
+      <tspan x="88" dy="18">#</tspan>
+      <tspan x="88" dy="18">ヘ</tspan>
+      <tspan x="88" dy="18">ケ</tspan>
+      <tspan x="88" dy="18">2</tspan>
+      <tspan x="88" dy="18">/</tspan>
+      <tspan x="88" dy="18">#</tspan>
+      <tspan x="88" dy="18">1</tspan>
+      <tspan x="88" dy="18">/</tspan>
+      <tspan x="88" dy="18">#</tspan>
+      <tspan x="88" dy="18">ニ</tspan>
+      <tspan x="88" dy="18">$</tspan>
+      <tspan x="88" dy="18">&gt;</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="5.55s" begin="-5.21s" repeatCount="indefinite"/>
+    </text>
+    <text x="110" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="110" dy="0">4</tspan>
+      <tspan x="110" dy="18">オ</tspan>
+      <tspan x="110" dy="18">ニ</tspan>
+      <tspan x="110" dy="18">ヨ</tspan>
+      <tspan x="110" dy="18">3</tspan>
+      <tspan x="110" dy="18">}</tspan>
+      <tspan x="110" dy="18">ホ</tspan>
+      <tspan x="110" dy="18">ニ</tspan>
+      <tspan x="110" dy="18">ハ</tspan>
+      <tspan x="110" dy="18">&lt;</tspan>
+      <tspan x="110" dy="18">マ</tspan>
+      <tspan x="110" dy="18">カ</tspan>
+      <tspan x="110" dy="18">ヲ</tspan>
+      <tspan x="110" dy="18">サ</tspan>
+      <tspan x="110" dy="18">ク</tspan>
+      <tspan x="110" dy="18">#</tspan>
+      <tspan x="110" dy="18">4</tspan>
+      <tspan x="110" dy="18">#</tspan>
+      <tspan x="110" dy="18">モ</tspan>
+      <tspan x="110" dy="18">ン</tspan>
+      <tspan x="110" dy="18">マ</tspan>
+      <tspan x="110" dy="18">&lt;</tspan>
+      <tspan x="110" dy="18">セ</tspan>
+      <tspan x="110" dy="18">2</tspan>
+      <tspan x="110" dy="18">8</tspan>
+      <tspan x="110" dy="18">ナ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="7.86s" begin="-1.61s" repeatCount="indefinite"/>
+    </text>
+    <text x="132" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="132" dy="0">&gt;</tspan>
+      <tspan x="132" dy="18">0</tspan>
+      <tspan x="132" dy="18">ム</tspan>
+      <tspan x="132" dy="18">セ</tspan>
+      <tspan x="132" dy="18">フ</tspan>
+      <tspan x="132" dy="18">8</tspan>
+      <tspan x="132" dy="18">ウ</tspan>
+      <tspan x="132" dy="18">&lt;</tspan>
+      <tspan x="132" dy="18">モ</tspan>
+      <tspan x="132" dy="18">サ</tspan>
+      <tspan x="132" dy="18">コ</tspan>
+      <tspan x="132" dy="18">1</tspan>
+      <tspan x="132" dy="18">ノ</tspan>
+      <tspan x="132" dy="18">ソ</tspan>
+      <tspan x="132" dy="18">2</tspan>
+      <tspan x="132" dy="18">サ</tspan>
+      <tspan x="132" dy="18">タ</tspan>
+      <tspan x="132" dy="18">メ</tspan>
+      <tspan x="132" dy="18">2</tspan>
+      <tspan x="132" dy="18">メ</tspan>
+      <tspan x="132" dy="18">ム</tspan>
+      <tspan x="132" dy="18">0</tspan>
+      <tspan x="132" dy="18">ツ</tspan>
+      <tspan x="132" dy="18">6</tspan>
+      <tspan x="132" dy="18">ク</tspan>
+      <tspan x="132" dy="18">5</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="7.39s" begin="-1.76s" repeatCount="indefinite"/>
+    </text>
+    <text x="154" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="154" dy="0">ワ</tspan>
+      <tspan x="154" dy="18">ト</tspan>
+      <tspan x="154" dy="18">ヘ</tspan>
+      <tspan x="154" dy="18">ハ</tspan>
+      <tspan x="154" dy="18">4</tspan>
+      <tspan x="154" dy="18">サ</tspan>
+      <tspan x="154" dy="18">ネ</tspan>
+      <tspan x="154" dy="18">ハ</tspan>
+      <tspan x="154" dy="18">ケ</tspan>
+      <tspan x="154" dy="18">キ</tspan>
+      <tspan x="154" dy="18">ミ</tspan>
+      <tspan x="154" dy="18">ヤ</tspan>
+      <tspan x="154" dy="18">7</tspan>
+      <tspan x="154" dy="18">コ</tspan>
+      <tspan x="154" dy="18">ウ</tspan>
+      <tspan x="154" dy="18">ヨ</tspan>
+      <tspan x="154" dy="18">ヒ</tspan>
+      <tspan x="154" dy="18">ム</tspan>
+      <tspan x="154" dy="18">サ</tspan>
+      <tspan x="154" dy="18">カ</tspan>
+      <tspan x="154" dy="18">}</tspan>
+      <tspan x="154" dy="18">2</tspan>
+      <tspan x="154" dy="18">ホ</tspan>
+      <tspan x="154" dy="18">テ</tspan>
+      <tspan x="154" dy="18">テ</tspan>
+      <tspan x="154" dy="18">9</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="6.5s" begin="-0.59s" repeatCount="indefinite"/>
+    </text>
+    <text x="176" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="176" dy="0">ハ</tspan>
+      <tspan x="176" dy="18">ハ</tspan>
+      <tspan x="176" dy="18">6</tspan>
+      <tspan x="176" dy="18">ニ</tspan>
+      <tspan x="176" dy="18">ヌ</tspan>
+      <tspan x="176" dy="18">6</tspan>
+      <tspan x="176" dy="18">7</tspan>
+      <tspan x="176" dy="18">オ</tspan>
+      <tspan x="176" dy="18">モ</tspan>
+      <tspan x="176" dy="18">ヨ</tspan>
+      <tspan x="176" dy="18">/</tspan>
+      <tspan x="176" dy="18">エ</tspan>
+      <tspan x="176" dy="18">ヲ</tspan>
+      <tspan x="176" dy="18">ナ</tspan>
+      <tspan x="176" dy="18">2</tspan>
+      <tspan x="176" dy="18">8</tspan>
+      <tspan x="176" dy="18">1</tspan>
+      <tspan x="176" dy="18">コ</tspan>
+      <tspan x="176" dy="18">ハ</tspan>
+      <tspan x="176" dy="18">ス</tspan>
+      <tspan x="176" dy="18">ル</tspan>
+      <tspan x="176" dy="18">メ</tspan>
+      <tspan x="176" dy="18">ヌ</tspan>
+      <tspan x="176" dy="18">フ</tspan>
+      <tspan x="176" dy="18">ヨ</tspan>
+      <tspan x="176" dy="18">セ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="6.48s" begin="-5.79s" repeatCount="indefinite"/>
+    </text>
+    <text x="198" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="198" dy="0">ロ</tspan>
+      <tspan x="198" dy="18">9</tspan>
+      <tspan x="198" dy="18">7</tspan>
+      <tspan x="198" dy="18">}</tspan>
+      <tspan x="198" dy="18">モ</tspan>
+      <tspan x="198" dy="18">ハ</tspan>
+      <tspan x="198" dy="18">$</tspan>
+      <tspan x="198" dy="18">ヤ</tspan>
+      <tspan x="198" dy="18">ア</tspan>
+      <tspan x="198" dy="18">9</tspan>
+      <tspan x="198" dy="18">エ</tspan>
+      <tspan x="198" dy="18">1</tspan>
+      <tspan x="198" dy="18">ウ</tspan>
+      <tspan x="198" dy="18">&lt;</tspan>
+      <tspan x="198" dy="18">2</tspan>
+      <tspan x="198" dy="18">ロ</tspan>
+      <tspan x="198" dy="18">ユ</tspan>
+      <tspan x="198" dy="18">6</tspan>
+      <tspan x="198" dy="18">ソ</tspan>
+      <tspan x="198" dy="18">ツ</tspan>
+      <tspan x="198" dy="18">0</tspan>
+      <tspan x="198" dy="18">ナ</tspan>
+      <tspan x="198" dy="18">ツ</tspan>
+      <tspan x="198" dy="18">8</tspan>
+      <tspan x="198" dy="18">ヒ</tspan>
+      <tspan x="198" dy="18">キ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="4.7s" begin="-4.82s" repeatCount="indefinite"/>
+    </text>
+    <text x="220" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="220" dy="0">2</tspan>
+      <tspan x="220" dy="18">ニ</tspan>
+      <tspan x="220" dy="18">ヨ</tspan>
+      <tspan x="220" dy="18">8</tspan>
+      <tspan x="220" dy="18">}</tspan>
+      <tspan x="220" dy="18">コ</tspan>
+      <tspan x="220" dy="18">タ</tspan>
+      <tspan x="220" dy="18">ハ</tspan>
+      <tspan x="220" dy="18">ホ</tspan>
+      <tspan x="220" dy="18">1</tspan>
+      <tspan x="220" dy="18">ヌ</tspan>
+      <tspan x="220" dy="18">ケ</tspan>
+      <tspan x="220" dy="18">ナ</tspan>
+      <tspan x="220" dy="18">コ</tspan>
+      <tspan x="220" dy="18">&gt;</tspan>
+      <tspan x="220" dy="18">ヲ</tspan>
+      <tspan x="220" dy="18">6</tspan>
+      <tspan x="220" dy="18">ノ</tspan>
+      <tspan x="220" dy="18">9</tspan>
+      <tspan x="220" dy="18">ロ</tspan>
+      <tspan x="220" dy="18">マ</tspan>
+      <tspan x="220" dy="18">メ</tspan>
+      <tspan x="220" dy="18">ヲ</tspan>
+      <tspan x="220" dy="18">マ</tspan>
+      <tspan x="220" dy="18">$</tspan>
+      <tspan x="220" dy="18">ユ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="4.66s" begin="-5.28s" repeatCount="indefinite"/>
+    </text>
+    <text x="242" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="242" dy="0">ヤ</tspan>
+      <tspan x="242" dy="18">&gt;</tspan>
+      <tspan x="242" dy="18">シ</tspan>
+      <tspan x="242" dy="18">テ</tspan>
+      <tspan x="242" dy="18">タ</tspan>
+      <tspan x="242" dy="18">7</tspan>
+      <tspan x="242" dy="18">ム</tspan>
+      <tspan x="242" dy="18">ミ</tspan>
+      <tspan x="242" dy="18">タ</tspan>
+      <tspan x="242" dy="18">4</tspan>
+      <tspan x="242" dy="18">6</tspan>
+      <tspan x="242" dy="18">#</tspan>
+      <tspan x="242" dy="18">ハ</tspan>
+      <tspan x="242" dy="18">ナ</tspan>
+      <tspan x="242" dy="18">エ</tspan>
+      <tspan x="242" dy="18">モ</tspan>
+      <tspan x="242" dy="18">フ</tspan>
+      <tspan x="242" dy="18">5</tspan>
+      <tspan x="242" dy="18">&lt;</tspan>
+      <tspan x="242" dy="18">メ</tspan>
+      <tspan x="242" dy="18">ニ</tspan>
+      <tspan x="242" dy="18">ヒ</tspan>
+      <tspan x="242" dy="18">2</tspan>
+      <tspan x="242" dy="18">2</tspan>
+      <tspan x="242" dy="18">6</tspan>
+      <tspan x="242" dy="18">サ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="7.2s" begin="-2.05s" repeatCount="indefinite"/>
+    </text>
+    <text x="264" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="264" dy="0">ホ</tspan>
+      <tspan x="264" dy="18">6</tspan>
+      <tspan x="264" dy="18">9</tspan>
+      <tspan x="264" dy="18">ウ</tspan>
+      <tspan x="264" dy="18">ヌ</tspan>
+      <tspan x="264" dy="18">4</tspan>
+      <tspan x="264" dy="18">ロ</tspan>
+      <tspan x="264" dy="18">マ</tspan>
+      <tspan x="264" dy="18">ム</tspan>
+      <tspan x="264" dy="18">4</tspan>
+      <tspan x="264" dy="18">#</tspan>
+      <tspan x="264" dy="18">セ</tspan>
+      <tspan x="264" dy="18">マ</tspan>
+      <tspan x="264" dy="18">サ</tspan>
+      <tspan x="264" dy="18">テ</tspan>
+      <tspan x="264" dy="18">1</tspan>
+      <tspan x="264" dy="18">テ</tspan>
+      <tspan x="264" dy="18">キ</tspan>
+      <tspan x="264" dy="18">ク</tspan>
+      <tspan x="264" dy="18">ア</tspan>
+      <tspan x="264" dy="18">ト</tspan>
+      <tspan x="264" dy="18">9</tspan>
+      <tspan x="264" dy="18">3</tspan>
+      <tspan x="264" dy="18">{</tspan>
+      <tspan x="264" dy="18">ラ</tspan>
+      <tspan x="264" dy="18">7</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="4.94s" begin="-2.18s" repeatCount="indefinite"/>
+    </text>
+    <text x="286" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="286" dy="0">/</tspan>
+      <tspan x="286" dy="18">コ</tspan>
+      <tspan x="286" dy="18">シ</tspan>
+      <tspan x="286" dy="18">4</tspan>
+      <tspan x="286" dy="18">ン</tspan>
+      <tspan x="286" dy="18">コ</tspan>
+      <tspan x="286" dy="18">1</tspan>
+      <tspan x="286" dy="18">コ</tspan>
+      <tspan x="286" dy="18">}</tspan>
+      <tspan x="286" dy="18">#</tspan>
+      <tspan x="286" dy="18">ソ</tspan>
+      <tspan x="286" dy="18">ニ</tspan>
+      <tspan x="286" dy="18">マ</tspan>
+      <tspan x="286" dy="18">ハ</tspan>
+      <tspan x="286" dy="18">2</tspan>
+      <tspan x="286" dy="18">ネ</tspan>
+      <tspan x="286" dy="18">イ</tspan>
+      <tspan x="286" dy="18">フ</tspan>
+      <tspan x="286" dy="18">2</tspan>
+      <tspan x="286" dy="18">イ</tspan>
+      <tspan x="286" dy="18">7</tspan>
+      <tspan x="286" dy="18">0</tspan>
+      <tspan x="286" dy="18">ヒ</tspan>
+      <tspan x="286" dy="18">ワ</tspan>
+      <tspan x="286" dy="18">3</tspan>
+      <tspan x="286" dy="18">4</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="7.35s" begin="-0.85s" repeatCount="indefinite"/>
+    </text>
+    <text x="308" y="0" font-family="Consolas, monospace" font-weight="700" font-size="16" fill="url(#fade)" text-anchor="middle">
+      <tspan x="308" dy="0">2</tspan>
+      <tspan x="308" dy="18">カ</tspan>
+      <tspan x="308" dy="18">チ</tspan>
+      <tspan x="308" dy="18">ソ</tspan>
+      <tspan x="308" dy="18">オ</tspan>
+      <tspan x="308" dy="18">モ</tspan>
+      <tspan x="308" dy="18">メ</tspan>
+      <tspan x="308" dy="18">ス</tspan>
+      <tspan x="308" dy="18">ヤ</tspan>
+      <tspan x="308" dy="18">ロ</tspan>
+      <tspan x="308" dy="18">ナ</tspan>
+      <tspan x="308" dy="18">サ</tspan>
+      <tspan x="308" dy="18">ケ</tspan>
+      <tspan x="308" dy="18">9</tspan>
+      <tspan x="308" dy="18">6</tspan>
+      <tspan x="308" dy="18">ノ</tspan>
+      <tspan x="308" dy="18">ン</tspan>
+      <tspan x="308" dy="18">リ</tspan>
+      <tspan x="308" dy="18">ヌ</tspan>
+      <tspan x="308" dy="18">{</tspan>
+      <tspan x="308" dy="18">7</tspan>
+      <tspan x="308" dy="18">ネ</tspan>
+      <tspan x="308" dy="18">ヤ</tspan>
+      <tspan x="308" dy="18">イ</tspan>
+      <tspan x="308" dy="18">4</tspan>
+      <tspan x="308" dy="18">ミ</tspan>
+      <animate attributeName="y" from="-468" to="380" dur="7.56s" begin="-2.85s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <rect x="0.5" y="0.5" width="339" height="379" rx="10" ry="10" fill="none" stroke="#6ee7f9" stroke-opacity="0.25" stroke-width="1"/>
+</svg>

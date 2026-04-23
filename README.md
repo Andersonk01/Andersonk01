@@ -43,9 +43,7 @@ const anderson = {
 
 </td>
     <td width="45%" align="center">
-      <img src="coding.gif" alt="coding animation" width="320"/>
-      <br/>
-      <img src="https://ghchart.rshah.org/6ee7f9/Andersonk01" alt="contributions grid" width="100%"/>
+      <img src="matrix.svg" alt="matrix rain animation" width="100%"/>
     </td>
   </tr>
 </table>
